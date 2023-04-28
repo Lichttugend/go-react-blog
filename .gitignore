@@ -1,0 +1,11 @@
+# .gitignore
+
+# Node modules
+frontend/node_modules/
+
+# Build artifacts
+frontend/build/
+backend/main
+
+# Environment variables
+.env
